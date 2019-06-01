@@ -1,0 +1,1 @@
+//no i jak tam? działa Wam git?
